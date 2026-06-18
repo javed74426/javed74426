@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Javed Iqbal 👋</h1>
+<h1 align="center">Hi, I'm Javed 👋</h1>
 
 <p align="center">
   <b>SRE &nbsp;·&nbsp; DevOps Lead &nbsp;·&nbsp; Cloud & Infrastructure Architect</b><br/>
