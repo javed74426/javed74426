@@ -1,4 +1,4 @@
-# Javed Iqbal
+# Javed
 
 **SRE | DevOps Lead | Cloud & Infrastructure Architect**
 
