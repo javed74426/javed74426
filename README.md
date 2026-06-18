@@ -19,8 +19,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🏗️ **12+ years** in DevOps, SRE, Cloud Architecture & Enterprise Infrastructure
-- ☁️ **8+ years** of hands-on AWS experience across production FinTech and banking platforms
+- 🏗️ **15+ years** in DevOps, SRE, Cloud Architecture & Enterprise Infrastructure
+- ☁️ **10+ years** of hands-on AWS experience across production FinTech and banking platforms
 - 🚀 Designed and operated infrastructure running **80+ microservices** across multi-region AWS environments
 - 🔐 Delivered **Central Bank (UAE & Pakistan)** compliant, EU/GDPR-regulated platform infrastructure
 - ⛓️ Deployed and operated **Substrate-based blockchain networks** at enterprise scale
