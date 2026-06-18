@@ -76,5 +76,5 @@ Linux, Ubuntu, CentOS, Red Hat, Windows Server, VMware ESXi, MySQL, Apache, Ngin
 
 ## 📫 Connect
 
-- GitHub: [@javedsamtiah](https://github.com/javedsamtiah)
-- Email: javedsamtiah@gmail.com
+- GitHub: [@javed74426](https://github.com/javed74426)
+- Email: javed@onmail.live
