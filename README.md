@@ -8,8 +8,8 @@ I design, automate, and operate secure, scalable, and reliable cloud platforms. 
 
 ## 🚀 About Me
 
-- 12+ years of experience in DevOps, SRE, cloud infrastructure, and enterprise systems
-- 8+ years of hands-on experience with AWS cloud platforms
+- 15+ years of experience in DevOps, SRE, cloud infrastructure, and enterprise systems
+- 10+ years of hands-on experience with AWS cloud platforms
 - Strong background in Kubernetes, EKS, ECS, Terraform, CloudFormation, and CI/CD automation
 - Experienced in building highly available, secure, and compliant infrastructure for FinTech and banking platforms
 - Led infrastructure for platforms running 80+ microservices across multiple environments and regions
